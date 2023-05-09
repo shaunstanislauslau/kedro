@@ -14,7 +14,7 @@ azure-storage-blob>=1.1.0, <2.0
 azure-storage-file>=1.1.0, <2.0
 azure-storage-queue>=1.1.0, <2.0
 joblib==0.12.3
-psutil==5.4.7
+psutil==5.6.6
 wheel==0.32.2
 biopython>=1.73, <2.0
 requests>=2.21.0, <3.0
