@@ -13,7 +13,7 @@ codacy-coverage
 azure-storage-blob>=1.1.0, <2.0
 azure-storage-file>=1.1.0, <2.0
 azure-storage-queue>=1.1.0, <2.0
-joblib==0.12.3
+joblib==1.2.0
 psutil==5.4.7
 wheel==0.32.2
 biopython>=1.73, <2.0
